@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;AAAAA,KAAK,CAAC,WAAD,CAAL;AACAC,OAAO,CAACC,GAAR,CAAY,KAAZ,E","sources":["webpack://modelowebpack/./src/index.js"],"sourcesContent":["alert('Ola Mundo')\r\nconsole.log('Ola')"],"names":["alert","console","log"],"sourceRoot":""}
